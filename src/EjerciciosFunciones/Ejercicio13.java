@@ -4,19 +4,12 @@
  * and open the template in the editor.
  */
 
-package ejercicios;
+package EjerciciosFunciones;
 
 /**
  *
  * @author Geovanny Loor
  */
-public class Ejercicios {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Ejercicio13 {
     
 }
